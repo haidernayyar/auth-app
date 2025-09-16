@@ -14,7 +14,11 @@ module.exports = {
         card: '#29382F', 
         'text-main': '#FFFFFF',
         'text-subtle': '#9CA3AF',
-        'border-color': '#4B5563'
+        'border-color': '#4B5563',
+        error: '#ED4337'
+      },
+      spacing: {
+        container: '30px',
       }
     },
   },
