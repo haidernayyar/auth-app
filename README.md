@@ -3,16 +3,16 @@
 This project features a dark-themed UI, robust form handling, and a scalable architecture, making it a perfect starting point for a new application.
 
 
-##Screenshots and Demo
+## Screenshots and Demo
 
 | Login Screen | Signup Screen | Home Screen |
 | :----------: | :-----------: | :---------: |
-|  |  |  |
+| <img width="411" height="858" alt="Screenshot 2025-09-16 at 11 11 00 AM" src="https://github.com/user-attachments/assets/4dffb092-5c3e-4ce8-8eca-7428587c34f8" /> | <img width="411" height="858" alt="Screenshot 2025-09-16 at 11 11 30 AM" src="https://github.com/user-attachments/assets/b33cda99-4b62-4360-8c0d-183d79fb2715" /> | <img width="411" height="858" alt="Screenshot 2025-09-16 at 2 43 09 PM" src="https://github.com/user-attachments/assets/2c0922a3-8a22-40be-b877-b27fdae7bef1" /> |
 
 
-| Demo |
-| :------: |
-|          |
+
+
+https://github.com/user-attachments/assets/20370d4b-b851-4f33-9e38-5ab470190b96
 
 
 
